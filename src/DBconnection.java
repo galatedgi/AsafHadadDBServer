@@ -6,15 +6,6 @@ public class DBconnection {
     static DBconnection connection=null;
 
 
-    final String connectionUrl="jdbc:sqlserver://asafhadadbs.database.windows.net:1433;" +
-            "database=asafHadadDataBase;" +
-            "user=asafhadad@asafhadadbs;" +
-            "password=asaf0542388662!;" +
-            "encrypt=true;" +
-            "trustServerCertificate=false;" +
-            "hostNameInCertificate=*.database.windows.net;" +
-            "loginTimeout=30;";
-
     private DBconnection() {
 
     }
