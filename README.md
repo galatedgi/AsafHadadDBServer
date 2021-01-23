@@ -6,6 +6,6 @@ URL to the barbershop website: http://asafhadadbarbershop.com
 
 Functionality:
 
--Opening new queues
+* Opening new queues
 
--Closing outdated queues
+* Closing outdated queues
